@@ -3,6 +3,15 @@ body{
     height: 100vh;
     margin: auto;
     background-color: rgb(231, 211, 231);
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+    color: blue;
 }
 form{
     display: flex;
